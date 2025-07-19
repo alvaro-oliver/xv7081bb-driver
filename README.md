@@ -1,6 +1,6 @@
 # XV7081BB SPI Driver for Embedded Platforms
 
-This repository provides a lightweight C driver for the [EPSON XV7081BB](https://download.epsondevice.com/td/pdf/app/XV7081BB_en.pdf) high-performance gyroscope, using the **SPI interface only**.  
+This repository provides a lightweight C driver for the [EPSON XV7081BB](https://download.epsondevice.com/td/pdf/app/XV7081BB_en.pdf) High-stability Gyro Sensor, using the **SPI interface only**.  
 It includes platform-independent source files and a working example for **ESP32 (ESP-IDF)**.
 
 > ⚠️ Only SPI **4-wire mode** is supported.
